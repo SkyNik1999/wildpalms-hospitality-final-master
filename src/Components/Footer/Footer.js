@@ -101,7 +101,7 @@ const Footer = () => {
                 <i className="bx bxl-facebook-circle"></i>
               </a>
               <a
-                href="https://www.instagram.com/wildpalmshospitality?igsh=ZzRnNWQ2MXVuNDg1"
+                href="https://www.instagram.com/wildpalms.goa/"
                 target="_blank"
                 className="footer__social-link"
               >
