@@ -11,7 +11,7 @@ const HomePage = () => {
   return (
     <div>
         <Hero/>
-        <Logos/>
+        
         <Popular/>
         <Value/>
         <Contact/>
